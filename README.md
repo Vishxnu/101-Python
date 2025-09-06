@@ -5,9 +5,8 @@
 </div>
 <br>
 
-Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex exercises. Feel free to make pull requests to add your own twists on the exercises!
+Welcome to The Legend of Python GitHub repo! We are super excited to have you. 
 
-### Start the course: www.codedex.io/python
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> 1: Hello World
 
@@ -16,7 +15,6 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/04_initials.py)
 - [`letter.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/05_letter.py)
 
-Walkthrough video: https://youtube.com/watch?v=ioumu_SC7F8
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> 2. Variables
 
@@ -84,4 +82,3 @@ Walkthrough video: https://youtube.com/watch?v=ioumu_SC7F8
 
 ---
 
-Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
